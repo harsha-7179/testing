@@ -19,4 +19,6 @@ driver.maximize_window()
 time.sleep(5)
 
 driver.quit()
-print("Browser closed. Test finished. as;ldkfjalksjf")
+
+print("Browser closed. Test finished so fast .")
+
